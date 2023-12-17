@@ -1,0 +1,11 @@
+#box1 {
+
+
+    @keyframes myColorChange{
+        20%{background-color: orange}
+        40%{background-color: yellow}
+        60%{background-color: green}
+        80%{background-color: blue}
+        100%{background-color: purple}
+     }
+    }
